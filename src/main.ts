@@ -1,5 +1,5 @@
 import './style.css'
-import './ejemplod-ts/04-desestructuracion-obj-arre.ts'
+import './ejemplod-ts/06-importar-exportar.ts'
 import typescriptLogo from './typescript.svg'
 import viteLogo from '/vite.svg'
 import { setupCounter } from './counter.ts'
